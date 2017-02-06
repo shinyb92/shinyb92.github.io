@@ -17,7 +17,7 @@ A lot of code nowadays is shrouded, unfortunately, in mystery. It’s the equiva
 
 If you’re interested in that kind of thing, stay tuned. And all of this comes with a caveat, if you can stomach it: 
 
-I am not an expert. *Gasp*. I worked hard everyday to expand my knowledge (I'll get into a post about my tools for that in the future). But I'm not -- yet.  
+I am not an expert. *Gasp*. I work hard everyday to expand my knowledge (I'll get into a post about my tools for that in the future). But I'm not -- yet.  
 
 I admit I am a self-taught programmer, though I've have massive help along the way. What I’ve learned in those two and a half years is that everyone teaches themselves how to code. It’s a constant learning process that takes constant practice. 
 
