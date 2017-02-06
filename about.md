@@ -1,30 +1,36 @@
 ---
 layout: page
-title: About
+title: About  
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi. I'm Alex! (That's me in the picture) I'm a web developer that has a knack for front-end technologies. This is my home for all my projects, opinions, and insights into working in the world of the web. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Contact me! 
 
-There are currently two themes built on Poole:
+<div class="contact-form">
+	<form action="https://formspree.io/alex.m.beaulieu@gmail.com" method="POST">
+		<div class="row"> 
+			<div class="column"> 
+				<div class="contact-item">
+					<p class="contact-label"> Name </p> 
+					<input class="contact-field" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'John/Jane Doe'" name="name" placeholder="John/Jane Doe">
+				</div>
+				<div class="contact-item"> 
+					<p class="contact-label"> Email </p> 
+					<input class="contact-field" onfocus="this.placeholder = ''" onblur="this.placeholder = 'email@example.com'" type="email" name="email" placeholder="email@example.com">
+				</div>
+			</div> 
+			<div class="column">
+				<div class="contact-item"> 
+					<p class="contact-label"> Message </p> 
+					<textarea class="contact-message" type="textarea" name="message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'What's on your mind?'" placeholder="What's on your mind?"></textarea> 
+				</div>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+				<div class="contact-item">
+					<input id="submit-button" type="submit" value="Send"> 	 
+				</div>
+			</div>
+	</form>
+</div> 

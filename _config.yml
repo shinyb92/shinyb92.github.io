@@ -4,12 +4,17 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
+#gems
+
+gems: [jekyll-paginate, jekyll-gist]
+
+paginate: 3 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Alex Beaulieu
+tagline:          'Web Developer'
+description:      'Front End Web Developer. Technology communicator. Curious Human.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -17,10 +22,15 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
+
+
+
