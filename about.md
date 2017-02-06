@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hi. I'm Alex!  I'm a web developer that has a knack for front-end technologies. This is my home for all my projects, opinions, and insights into working in the world of the web. While you're here take a look at my <a href="/projects/"> Projects </a> and send me a message via the form below if you're interested in working with me! :) Thanks for stopping by. 
+  Hi. I'm Alex!  I'm a web developer that has a knack for front-end technologies. This is my home for all my projects, opinions, and insights into working in the world of the web. While you're here take a look at my <a href="{{site.github.url}}/projects/"> Projects </a> and send me a message via the form below if you're interested in working with me! :) Thanks for stopping by. 
 </p>
 
 ## Contact me! 
