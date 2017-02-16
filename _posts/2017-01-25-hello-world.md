@@ -19,9 +19,9 @@ If you’re interested in that kind of thing, stay tuned. And all of this comes 
 
 I am not an expert. *Gasp*. I work hard everyday to expand my knowledge (I'll get into a post about my tools for that in the future). But I'm not -- yet.  
 
-I admit I am a self-taught programmer, though I've have massive help along the way. What I’ve learned in those two and a half years is that everyone teaches themselves how to code. It’s a constant learning process that takes constant practice. 
+I admit I am a self-taught programmer, though I've had massive help along the way. What I’ve learned in those two and a half years is that everyone teaches themselves how to code. It’s a constant learning process that takes constant practice. 
 
-In my defense, I went from an English Major interested in technology and healthcare, to a guy who is now employed as a freelance web developer with a local agency and has been paid for those skills. 
+In my defense, I went from an English Major interested in technology and healthcare, to a guy who is now employed as a freelance web developer with a local agency and has been paid for making websites for actual functioning businesses. 
 
 Still, I want to make clear too that I don’t think that this blog is qualified to speak about code in an advanced Douglas Crockford-way that is intended to guide you through the perils of a particular language or framework quickly. No way Jose. Here’s a link to Peter Norvig’s [great essay](http://norvig.com/21-days.html) on how learning to code or do anything can’t be learned in a few minutes/hours/days and why that approach is bunk anyways. 
 
